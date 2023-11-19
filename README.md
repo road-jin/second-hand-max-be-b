@@ -25,6 +25,9 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
+## BeckEnd Infra
+![backend](https://github.com/road-jin/second-hand-max-be-b/assets/46990595/b440b230-6026-4436-96c6-d8cd99227677)
+
 ## Ground Rules
 
 ***Communication***
@@ -55,7 +58,6 @@
 > 오늘의 컨디션 점수   
 > 스크럼 마스터   
 
-[스크럼 내용](https://www.notion.so/jamstorage/165d625387344835b64809bf234b257d?v=a616cc3729ca440bb519bce705171657&pvs=4)
 
 ## 🤝🏼 Collaboration
 
@@ -75,10 +77,6 @@ ex. `fix/#30-login` : commit title
 `refactor` : 리팩토링용   
 ex. `refactor/#32-login` : commit title
 
-#### Merge
-> `→ dev` : Squash Merge   
-> `나머지` : Default Merge   
-
 ### Commit Convention
 
 Prefix with Issue #    
@@ -92,4 +90,4 @@ Ex: {커밋 타입} #{이슈 번호}: {커밋 제목}
 > `test` : 테스트 코드   
 > `docs` : 문서 수정   
 > `build` : 빌드 관련 파일     
-> `chore` : 그 외 자잘한 수정  
+> `chore` : 그 외 자잘한 수정
